@@ -1,3 +1,3 @@
 googlemktg
 ==========
-Code for Google SMB. Determines number of repeating Google-sponsored Adwords campaigns for each search query.
+Code for Google SMB Marketing. Determines number of repeating Google-sponsored Adwords campaigns for each search query.
